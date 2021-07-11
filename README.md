@@ -16,7 +16,7 @@ No desafio, foi pedido que eu alterasse o componente <code> TaskList.tsx </code>
 
 <h4>handleCreateNewTask</h4>
 
-<p> O primeiro passo que eu fiz para criar um novo task foi fazer uma variável para gerar um número aleatório para ser o id da task. </p>
+<p> O primeiro passo que eu dei para criar um novo task foi fazer uma variável para gerar um número aleatório para ser o id da task. </p>
 
     let random = Math.random() * 100000;
 
