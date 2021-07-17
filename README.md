@@ -1,5 +1,5 @@
 <h1 align="center"> Ignite </h1>
-<h2 align="center">Desafio 01 da Trilha ReactJS </h2>
+<h2 align="center">to.do</h2>
 
 
 ![image](https://user-images.githubusercontent.com/82004348/126047335-70a05e1c-882b-4a72-8c61-23de06041941.png)
