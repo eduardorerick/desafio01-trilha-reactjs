@@ -2,6 +2,14 @@
 <h2 align="center">Desafio 01 da Trilha ReactJS </h2>
 
 
+![image](https://user-images.githubusercontent.com/82004348/126047335-70a05e1c-882b-4a72-8c61-23de06041941.png)
+
+<h3>Resultado dos testes </h3>
+
+![image](https://user-images.githubusercontent.com/82004348/126047241-6614f587-9211-4391-9e48-cebe994f9e24.png)
+
+
+
 <h3> Explicando o desafio </h3>
 
 No desafio, foi pedido que eu alterasse o componente <code> TaskList.tsx </code> para que acressentasse as seguintes funcionalidades : 
